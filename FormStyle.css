@@ -1,0 +1,160 @@
+body { 
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgb(138, 195, 255);
+    color: rgb(32, 32, 32)
+}
+
+.errormsg {
+    position: fixed;
+    left:0;
+    top: 0;
+    background-color: #ff4144;
+    color: white;
+    font-size: 10pt;
+    padding: 5px;
+    width:100%;
+    margin:0;
+
+}
+
+.date1 {
+    margin:15px 15px;
+    font-size:12pt;
+
+}
+
+.date2 {
+    margin:5px 30px;
+    font-size:10pt;
+}
+
+.goodmsg {
+    position: fixed;
+    left:0;
+    top: 0;
+    background-color: #02bd01;
+    color: white;
+    font-size: 10pt;
+    padding: 5px;
+    width:100%;
+    margin:0;
+
+}
+
+h1 {
+    margin: 15px;
+}
+
+.textfield {
+    font-size: 16pt;
+    margin: 0px 10px 5px;
+    padding: 10px;
+    border: 2px solid lightblue;
+    border-radius: 5px;
+
+}
+
+.otpfield {
+    font-size: 16pt;
+    margin: 0px 10px 5px;
+    padding: 10px;
+    border: 2px solid lightblue;
+    border-radius: 5px;
+    width:75%;
+    float: left;
+}
+
+.nope {
+    width: 95%;
+}
+
+.headtext{
+    margin: 5px;
+    margin-left: 15px;
+}
+
+.buttn{
+    border: 2px solid lightblue;
+    margin: 10px;
+    width: 150px;
+    height: 40px;
+    font-size: 16pt;
+    border-radius: 5px;
+}
+
+.delbut {
+    float: left;
+    font-size: 16pt;
+    margin: 0px 10px 5px;
+    padding: 10px;
+    border: 2px solid lightblue;
+    border-radius: 5px;
+    background-color: #ff6666;
+    color:white;
+}
+
+.exit {
+    float:right;
+    font-size: 12pt;
+    margin: 3px 10px 5px;
+    padding: 5px;
+    border: 2px solid lightblue;
+    border-radius: 5px;
+    background-color: rgba(94, 111, 255, 0.72);
+    color:white;
+}
+
+
+.buttn:hover, .delbut:hover, .exit:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 230, 0.5);
+}
+
+
+
+.block1 {
+    background-color: #eeeeff;
+    border: 2px solid lightblue;
+    box-shadow: 0 0 10px rgba(0, 0, 230, 0.5);
+    width: 60%;
+    border-radius: 10px;
+    position: absolute;
+    left: 20%;
+    top:5%;
+}
+
+
+.tab-1, .tab-2, .tab-3 {
+    display: none;
+}
+
+input[type = "radio"]{
+    display:none;
+}
+
+.tabbb{
+
+    border-bottom:2px solid lightblue;
+    padding:10px 5px;
+}
+
+.tabbb > label {
+    padding:5px 10px;
+
+}
+
+input[id = "tabid-1"]:checked ~ .tabbb .choose-1,
+input[id = "tabid-2"]:checked ~ .tabbb .choose-2,
+input[id = "tabid-3"]:checked ~ .tabbb .choose-3
+{
+    width:33%;
+    background-color: rgba(94, 111, 255, 0.72);
+    color:white;
+    border-radius: 5px;
+}
+
+
+input[id="tabid-1"]:checked ~ .content .tab-1,
+input[id="tabid-2"]:checked ~ .content .tab-2,
+input[id="tabid-3"]:checked ~ .content .tab-3{
+    display: block;
+}
