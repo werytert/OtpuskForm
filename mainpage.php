@@ -128,12 +128,12 @@ if ((isset($_POST['begin-date'])) and (isset($_POST['end-date']))) { //пров�
             <label for="begin-date-field"> 
                 <p class = "headtext">Дата начала отпуска:</p>
                 <input class="textfield" type="date"
-                       name="begin-date" id = "begin-date-field" placeholder="21.12.2017"><br>
+                       name="begin-date" id = "begin-date-field" value = "<?=@$begindate;?>"><br>
             </label>
             <label for="end-date-field">
                 <p class = "headtext">Дата окончания отпуска:</p>
                 <input class="textfield" type="date"
-                       name="end-date" id = "end-date-field" placeholder="21.12.2017"><br>
+                       name="end-date" id = "end-date-field" value = "<?=@$enddate;?>"><br>
             </label>
             <input class = "buttn" type="submit" value="Принять">
 
