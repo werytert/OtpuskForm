@@ -23,9 +23,9 @@ if (in_array("exit", array_keys($_POST))) { //Проверка на нажати
     session_abort();
 
 }
-$begindatedel =  implode(",", array_keys($_POST));
-if (stristr($begindatedel, "del-")) {
 
+if (preg_grep("/del-/", array_keys($_POST))) {
+    $begindatedel =  implode(",", array_keys($_POST));
     $begindatedel = str_replace("del-", "", $begindatedel);
     $ftextquery = 'SELECT * FROM `Отпуск` WHERE `Номер трудового договора`="' . $tknumber . '" and `Дата начала отпуска` = "' . $begindatedel . '"';
     $fquery = mysqli_query($db, $ftextquery);
