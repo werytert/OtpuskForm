@@ -16,22 +16,25 @@ $db = mysqli_connect(MYSQL_SERVER, MYSQL_USER, MYSQL_PASSWORD, MYSQL_DB);
 mysqli_set_charset($db, "utf8");
 if (isset($_POST['tk-number'])) { //проверка сущесвтования запроса
     $tknumber = $_POST['tk-number'];
-    $query = "SELECT * FROM Сотрудники WHERE `Номер трудового договора` = '" . $tknumber . "'";
-    $resquery = mysqli_query($db, $query);
-    if (mysqli_num_rows($resquery) === 0) { //проверка существования пользователя
-        echo "<p class = 'errormsg'>Пользователя с таким номером трудового договора не существует</p>";
+    if (!((ctype_digit($tknumber)) and (strlen($tknumber) === 10))) {
+        echo "<p class = 'errormsg'>Неверный формат номера трудового договора</p>";
     } else {
-        $password = $_POST['password']; //проверка правильности пароля
-        $query = "SELECT * FROM Сотрудники WHERE `Пароль` = '" . $password . "' and `Номер трудового договора` = '" . $tknumber . "'";
+        $query = "SELECT * FROM Сотрудники WHERE `Номер трудового договора` = '" . $tknumber . "'";
         $resquery = mysqli_query($db, $query);
-        if (mysqli_num_rows($resquery) === 0) { 
-            echo "<p class = 'errormsg'>Неверный пароль</p>";
+        if (mysqli_num_rows($resquery) === 0) { //проверка существования пользователя
+            echo "<p class = 'errormsg'>Пользователя с таким номером трудового договора не существует</p>";
         } else {
-            session_start(); //начало сессии, сбор информации и переход на главную страницу
+            $password = $_POST['password']; //проверка правильности пароля
             $userdata = mysqli_fetch_row($resquery);
-            mysqli_free_result($resquery);
-            $_SESSION['userdata'] = $userdata;
-            header("Location: mainpage.php");
+            if (!($userdata[4] === $password)) {
+                echo "<p class = 'errormsg'>Неверный пароль</p>";
+            } else {
+                session_start(); //начало сессии, сбор информации и переход на главную страницу
+
+                mysqli_free_result($resquery);
+                $_SESSION['userdata'] = $userdata;
+                header("Location: mainpage.php");
+            }
         }
     }
 }

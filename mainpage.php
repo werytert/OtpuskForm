@@ -16,14 +16,14 @@ $db = mysqli_connect(MYSQL_SERVER, MYSQL_USER, MYSQL_PASSWORD, MYSQL_DB);
 mysqli_set_charset($db, "utf8");
 session_start(); //Начала сессии
 $tknumber = $_SESSION['userdata'][3];
-$begindatedel =  implode(",", array_keys($_POST));
-echo $begindatedel;
-if (stristr($begindatedel, "exit")) { //Проверка на нажатие кнопки выхода
-    echo "EXIT";
+
+
+if (in_array("exit", array_keys($_POST))) { //Проверка на нажатие кнопки выхода
     header("Location: LoginForm.php");
     session_abort();
 
 }
+$begindatedel =  implode(",", array_keys($_POST));
 if (stristr($begindatedel, "del-")) {
 
     $begindatedel = str_replace("del-", "", $begindatedel);
@@ -199,43 +199,43 @@ if ((isset($_POST['begin-date'])) and (isset($_POST['end-date']))) { //пров�
         function mnthname($n) {  //функция преобразования названия месяцев
             switch ($n) {
                 case 1:
-                    $res = "Январь";
-                    break;
+                    return "Январь";
+
                 case 2:
-                    $res = "Февраль";
-                    break;
+                    return "Февраль";
+
                 case 3:
-                    $res = "Март";
-                    break;
+                    return "Март";
+
                 case 4:
-                    $res = "Апрель";
-                    break;
+                    return "Апрель";
+
                 case 5:
-                    $res = "Май";
-                    break;
+                    return "Май";
+
                 case 6:
-                    $res = "Июнь";
-                    break;
+                    return "Июнь";
+
                 case 7:
-                    $res = "Июль";
-                    break;
+                    return "Июль";
+
                 case 8:
-                    $res = "Август";
-                    break;
+                    return "Август";
+
                 case 9:
-                    $res = "Сентябрь";
-                    break;
+                    return "Сентябрь";
+
                 case 10:
-                    $res = "Октябрь";
-                    break;
+                    return "Октябрь";
+
                 case 11:
-                    $res = "Ноябрь";
-                    break;
+                    return "Ноябрь";
+
                 case 12:
-                    $res = "Декабрь";
-                    break;
+                    return "Декабрь";
+
             }
-            return $res;
+
         }
 
 
