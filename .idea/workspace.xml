@@ -27,7 +27,7 @@
       <file leaf-file-name="LoginForm.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LoginForm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
+            <state relative-caret-position="508">
               <caret line="31" column="54" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="54" />
               <folding>
                 <marker date="1509377988156" expanded="true" signature="807:866" ph="SELECT * FRO... Сотрудники" />
@@ -44,31 +44,31 @@
       <file leaf-file-name="mainpage.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainpage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2072">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="358">
+              <caret line="24" column="1" selection-start-line="20" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
               <folding>
-                <element signature="e#2239#4779#0#PHP" expanded="false" />
-                <marker date="1509463973642" expanded="true" signature="1112:1239" ph="SELECT * FRO... Отпуск" />
-                <marker date="1509463973642" expanded="true" signature="1120:1239" ph="DELETE FROM " />
-                <marker date="1509463973642" expanded="true" signature="1169:1239" ph="INSERT INTO Отпуск... " />
-                <marker date="1509463973642" expanded="true" signature="1672:1700" ph="UPDATE Сотру... " />
-                <marker date="1509463973642" expanded="true" signature="1672:1771" ph="UPDATE Сотру... " />
-                <marker date="1509463973642" expanded="true" signature="1847:1972" ph="DELETE FROM " />
-                <marker date="1509463973642" expanded="true" signature="1853:1972" ph="SELECT * FRO... Отпуск" />
-                <marker date="1509463973642" expanded="true" signature="2549:2575" ph="INSERT INTO Отпуск... " />
-                <marker date="1509463973642" expanded="true" signature="2549:2595" ph="INSERT INTO Отпуск... " />
-                <marker date="1509463973642" expanded="true" signature="2549:2635" ph="INSERT INTO ${$tablename}... " />
-                <marker date="1509463973642" expanded="true" signature="2549:2691" ph="INSERT INTO Отпуск... " />
-                <marker date="1509463973642" expanded="true" signature="2808:2903" ph="UPDATE Сотру... " />
-                <marker date="1509463973642" expanded="true" signature="2836:2848" ph="INSERT INTO О... " />
-                <marker date="1509463973642" expanded="true" signature="3112:3573" ph="SELECT * FRO... Отпуск" />
-                <marker date="1509463973642" expanded="true" signature="3112:3592" ph="SELECT * FRO... Отпуск" />
-                <marker date="1509463973642" expanded="true" signature="3112:3643" ph="SELECT * FRO... Отпуск" />
-                <marker date="1509463973642" expanded="true" signature="5940:5990" ph="..." />
-                <marker date="1509463973642" expanded="true" signature="7249:7322" ph="SELECT * FRO... Отпуск" />
-                <marker date="1509463973642" expanded="true" signature="8005:8144" ph="..." />
-                <marker date="1509463973642" expanded="true" signature="8548:8568" ph="SELECT * FRO... Отпуск" />
-                <marker date="1509463973642" expanded="true" signature="9602:10097" ph="..." />
+                <element signature="e#2282#4822#0#PHP" expanded="false" />
+                <marker date="1509466174922" expanded="true" signature="1155:1282" ph="SELECT * FRO... Отпуск" />
+                <marker date="1509466174922" expanded="true" signature="1163:1282" ph="DELETE FROM " />
+                <marker date="1509466174922" expanded="true" signature="1212:1282" ph="INSERT INTO Отпуск... " />
+                <marker date="1509466174922" expanded="true" signature="1715:1743" ph="UPDATE Сотру... " />
+                <marker date="1509466174922" expanded="true" signature="1715:1814" ph="UPDATE Сотру... " />
+                <marker date="1509466174922" expanded="true" signature="1890:2015" ph="DELETE FROM " />
+                <marker date="1509466174922" expanded="true" signature="1896:2015" ph="SELECT * FRO... Отпуск" />
+                <marker date="1509466174922" expanded="true" signature="2592:2618" ph="INSERT INTO Отпуск... " />
+                <marker date="1509466174922" expanded="true" signature="2592:2638" ph="INSERT INTO Отпуск... " />
+                <marker date="1509466174922" expanded="true" signature="2592:2678" ph="INSERT INTO ${$tablename}... " />
+                <marker date="1509466174922" expanded="true" signature="2592:2734" ph="INSERT INTO Отпуск... " />
+                <marker date="1509466174922" expanded="true" signature="2851:2946" ph="UPDATE Сотру... " />
+                <marker date="1509466174922" expanded="true" signature="2879:2891" ph="INSERT INTO О... " />
+                <marker date="1509466174922" expanded="true" signature="3155:3616" ph="SELECT * FRO... Отпуск" />
+                <marker date="1509466174922" expanded="true" signature="3155:3635" ph="SELECT * FRO... Отпуск" />
+                <marker date="1509466174922" expanded="true" signature="3155:3686" ph="SELECT * FRO... Отпуск" />
+                <marker date="1509466174922" expanded="true" signature="5983:6033" ph="..." />
+                <marker date="1509466174922" expanded="true" signature="7292:7365" ph="SELECT * FRO... Отпуск" />
+                <marker date="1509466174922" expanded="true" signature="8048:8187" ph="..." />
+                <marker date="1509466174922" expanded="true" signature="8591:8611" ph="SELECT * FRO... Отпуск" />
+                <marker date="1509466174922" expanded="true" signature="9645:10140" ph="..." />
               </folding>
             </state>
           </provider>
@@ -221,12 +221,12 @@
       <workItem from="1509027704774" duration="1103000" />
       <workItem from="1509030269730" duration="6993000" />
       <workItem from="1509050412281" duration="3683000" />
-      <workItem from="1509374691527" duration="6201000" />
+      <workItem from="1509374691527" duration="7462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62269000" />
+    <option name="totallyTimeSpent" value="63530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -295,28 +295,28 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2239#4779#0#PHP" expanded="false" />
-            <marker date="1509463973642" expanded="true" signature="1112:1239" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="1120:1239" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1169:1239" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1700" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1771" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1847:1972" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1853:1972" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="2549:2575" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2595" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2635" ph="INSERT INTO ${$tablename}... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2691" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2808:2903" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="2836:2848" ph="INSERT INTO О... " />
-            <marker date="1509463973642" expanded="true" signature="3112:3573" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3592" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3643" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="5940:5990" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="7249:7322" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="8005:8144" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="8548:8568" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="9602:10097" ph="..." />
+            <element signature="e#2282#4822#0#PHP" expanded="false" />
+            <marker date="1509466174922" expanded="true" signature="1155:1282" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="1163:1282" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1212:1282" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1743" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1814" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1890:2015" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1896:2015" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="2592:2618" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2638" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2678" ph="INSERT INTO ${$tablename}... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2734" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2851:2946" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="2879:2891" ph="INSERT INTO О... " />
+            <marker date="1509466174922" expanded="true" signature="3155:3616" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3635" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3686" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="5983:6033" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="7292:7365" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="8048:8187" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="8591:8611" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="9645:10140" ph="..." />
           </folding>
         </state>
       </provider>
@@ -349,28 +349,28 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2239#4779#0#PHP" expanded="false" />
-            <marker date="1509463973642" expanded="true" signature="1112:1239" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="1120:1239" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1169:1239" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1700" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1771" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1847:1972" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1853:1972" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="2549:2575" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2595" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2635" ph="INSERT INTO ${$tablename}... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2691" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2808:2903" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="2836:2848" ph="INSERT INTO О... " />
-            <marker date="1509463973642" expanded="true" signature="3112:3573" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3592" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3643" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="5940:5990" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="7249:7322" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="8005:8144" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="8548:8568" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="9602:10097" ph="..." />
+            <element signature="e#2282#4822#0#PHP" expanded="false" />
+            <marker date="1509466174922" expanded="true" signature="1155:1282" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="1163:1282" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1212:1282" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1743" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1814" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1890:2015" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1896:2015" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="2592:2618" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2638" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2678" ph="INSERT INTO ${$tablename}... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2734" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2851:2946" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="2879:2891" ph="INSERT INTO О... " />
+            <marker date="1509466174922" expanded="true" signature="3155:3616" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3635" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3686" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="5983:6033" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="7292:7365" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="8048:8187" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="8591:8611" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="9645:10140" ph="..." />
           </folding>
         </state>
       </provider>
@@ -418,28 +418,28 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2239#4779#0#PHP" expanded="false" />
-            <marker date="1509463973642" expanded="true" signature="1112:1239" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="1120:1239" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1169:1239" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1700" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1771" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1847:1972" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1853:1972" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="2549:2575" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2595" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2635" ph="INSERT INTO ${$tablename}... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2691" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2808:2903" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="2836:2848" ph="INSERT INTO О... " />
-            <marker date="1509463973642" expanded="true" signature="3112:3573" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3592" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3643" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="5940:5990" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="7249:7322" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="8005:8144" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="8548:8568" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="9602:10097" ph="..." />
+            <element signature="e#2282#4822#0#PHP" expanded="false" />
+            <marker date="1509466174922" expanded="true" signature="1155:1282" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="1163:1282" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1212:1282" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1743" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1814" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1890:2015" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1896:2015" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="2592:2618" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2638" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2678" ph="INSERT INTO ${$tablename}... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2734" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2851:2946" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="2879:2891" ph="INSERT INTO О... " />
+            <marker date="1509466174922" expanded="true" signature="3155:3616" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3635" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3686" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="5983:6033" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="7292:7365" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="8048:8187" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="8591:8611" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="9645:10140" ph="..." />
           </folding>
         </state>
       </provider>
@@ -472,28 +472,28 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2239#4779#0#PHP" expanded="false" />
-            <marker date="1509463973642" expanded="true" signature="1112:1239" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="1120:1239" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1169:1239" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1700" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1771" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1847:1972" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1853:1972" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="2549:2575" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2595" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2635" ph="INSERT INTO ${$tablename}... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2691" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2808:2903" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="2836:2848" ph="INSERT INTO О... " />
-            <marker date="1509463973642" expanded="true" signature="3112:3573" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3592" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3643" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="5940:5990" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="7249:7322" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="8005:8144" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="8548:8568" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="9602:10097" ph="..." />
+            <element signature="e#2282#4822#0#PHP" expanded="false" />
+            <marker date="1509466174922" expanded="true" signature="1155:1282" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="1163:1282" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1212:1282" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1743" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1814" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1890:2015" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1896:2015" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="2592:2618" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2638" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2678" ph="INSERT INTO ${$tablename}... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2734" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2851:2946" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="2879:2891" ph="INSERT INTO О... " />
+            <marker date="1509466174922" expanded="true" signature="3155:3616" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3635" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3686" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="5983:6033" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="7292:7365" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="8048:8187" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="8591:8611" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="9645:10140" ph="..." />
           </folding>
         </state>
       </provider>
@@ -526,28 +526,28 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2239#4779#0#PHP" expanded="false" />
-            <marker date="1509463973642" expanded="true" signature="1112:1239" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="1120:1239" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1169:1239" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1700" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1771" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1847:1972" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1853:1972" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="2549:2575" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2595" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2635" ph="INSERT INTO ${$tablename}... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2691" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2808:2903" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="2836:2848" ph="INSERT INTO О... " />
-            <marker date="1509463973642" expanded="true" signature="3112:3573" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3592" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3643" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="5940:5990" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="7249:7322" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="8005:8144" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="8548:8568" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="9602:10097" ph="..." />
+            <element signature="e#2282#4822#0#PHP" expanded="false" />
+            <marker date="1509466174922" expanded="true" signature="1155:1282" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="1163:1282" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1212:1282" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1743" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1814" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1890:2015" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1896:2015" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="2592:2618" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2638" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2678" ph="INSERT INTO ${$tablename}... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2734" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2851:2946" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="2879:2891" ph="INSERT INTO О... " />
+            <marker date="1509466174922" expanded="true" signature="3155:3616" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3635" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3686" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="5983:6033" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="7292:7365" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="8048:8187" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="8591:8611" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="9645:10140" ph="..." />
           </folding>
         </state>
       </provider>
@@ -580,28 +580,28 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2239#4779#0#PHP" expanded="false" />
-            <marker date="1509463973642" expanded="true" signature="1112:1239" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="1120:1239" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1169:1239" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1700" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1771" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1847:1972" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1853:1972" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="2549:2575" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2595" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2635" ph="INSERT INTO ${$tablename}... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2691" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2808:2903" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="2836:2848" ph="INSERT INTO О... " />
-            <marker date="1509463973642" expanded="true" signature="3112:3573" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3592" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3643" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="5940:5990" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="7249:7322" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="8005:8144" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="8548:8568" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="9602:10097" ph="..." />
+            <element signature="e#2282#4822#0#PHP" expanded="false" />
+            <marker date="1509466174922" expanded="true" signature="1155:1282" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="1163:1282" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1212:1282" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1743" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1814" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1890:2015" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1896:2015" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="2592:2618" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2638" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2678" ph="INSERT INTO ${$tablename}... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2734" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2851:2946" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="2879:2891" ph="INSERT INTO О... " />
+            <marker date="1509466174922" expanded="true" signature="3155:3616" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3635" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3686" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="5983:6033" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="7292:7365" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="8048:8187" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="8591:8611" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="9645:10140" ph="..." />
           </folding>
         </state>
       </provider>
@@ -631,7 +631,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LoginForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="508">
           <caret line="31" column="54" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="54" />
           <folding>
             <marker date="1509377988156" expanded="true" signature="807:866" ph="SELECT * FRO... Сотрудники" />
@@ -646,31 +646,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mainpage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2072">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="358">
+          <caret line="24" column="1" selection-start-line="20" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
           <folding>
-            <element signature="e#2239#4779#0#PHP" expanded="false" />
-            <marker date="1509463973642" expanded="true" signature="1112:1239" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="1120:1239" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1169:1239" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1700" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1672:1771" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="1847:1972" ph="DELETE FROM " />
-            <marker date="1509463973642" expanded="true" signature="1853:1972" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="2549:2575" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2595" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2635" ph="INSERT INTO ${$tablename}... " />
-            <marker date="1509463973642" expanded="true" signature="2549:2691" ph="INSERT INTO Отпуск... " />
-            <marker date="1509463973642" expanded="true" signature="2808:2903" ph="UPDATE Сотру... " />
-            <marker date="1509463973642" expanded="true" signature="2836:2848" ph="INSERT INTO О... " />
-            <marker date="1509463973642" expanded="true" signature="3112:3573" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3592" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="3112:3643" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="5940:5990" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="7249:7322" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="8005:8144" ph="..." />
-            <marker date="1509463973642" expanded="true" signature="8548:8568" ph="SELECT * FRO... Отпуск" />
-            <marker date="1509463973642" expanded="true" signature="9602:10097" ph="..." />
+            <element signature="e#2282#4822#0#PHP" expanded="false" />
+            <marker date="1509466174922" expanded="true" signature="1155:1282" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="1163:1282" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1212:1282" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1743" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1715:1814" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="1890:2015" ph="DELETE FROM " />
+            <marker date="1509466174922" expanded="true" signature="1896:2015" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="2592:2618" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2638" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2678" ph="INSERT INTO ${$tablename}... " />
+            <marker date="1509466174922" expanded="true" signature="2592:2734" ph="INSERT INTO Отпуск... " />
+            <marker date="1509466174922" expanded="true" signature="2851:2946" ph="UPDATE Сотру... " />
+            <marker date="1509466174922" expanded="true" signature="2879:2891" ph="INSERT INTO О... " />
+            <marker date="1509466174922" expanded="true" signature="3155:3616" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3635" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="3155:3686" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="5983:6033" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="7292:7365" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="8048:8187" ph="..." />
+            <marker date="1509466174922" expanded="true" signature="8591:8611" ph="SELECT * FRO... Отпуск" />
+            <marker date="1509466174922" expanded="true" signature="9645:10140" ph="..." />
           </folding>
         </state>
       </provider>
