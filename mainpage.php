@@ -17,12 +17,19 @@ mysqli_set_charset($db, "utf8");
 session_start(); //Начала сессии
 $tknumber = $_SESSION['userdata'][3];
 
+$begindatedel =  implode(",", array_keys($_POST));
 
-if (in_array("exit", array_keys($_POST))) { //Проверка на нажатие кнопки выхода
+if ($begindatedel === "exit") { //Проверка на нажатие кнопки выхода
+
     header("Location: LoginForm.php");
     session_abort();
-
 }
+
+/*if (in_array("exit", array_keys($_POST))) { //Проверка на нажатие кнопки выхода
+    header("Location: LoginForm.php");
+    session_abort();*/
+
+
 
 if (preg_grep("/del-/", array_keys($_POST))) {
     $begindatedel =  implode(",", array_keys($_POST));
@@ -196,48 +203,8 @@ if ((isset($_POST['begin-date'])) and (isset($_POST['end-date']))) { //пров�
             }
 
         }
-        function mnthname($n) {  //функция преобразования названия месяцев
-            switch ($n) {
-                case 1:
-                    return "Январь";
 
-                case 2:
-                    return "Февраль";
-
-                case 3:
-                    return "Март";
-
-                case 4:
-                    return "Апрель";
-
-                case 5:
-                    return "Май";
-
-                case 6:
-                    return "Июнь";
-
-                case 7:
-                    return "Июль";
-
-                case 8:
-                    return "Август";
-
-                case 9:
-                    return "Сентябрь";
-
-                case 10:
-                    return "Октябрь";
-
-                case 11:
-                    return "Ноябрь";
-
-                case 12:
-                    return "Декабрь";
-
-            }
-
-        }
-
+        $mnthname  = [1=>"Январь", "Февраль", "Март", "Апрель", "Май", "Июнь", "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"];
 
         echo '<article class = "tab-3">'; //вывод статистики
         echo "<h1>Статистика</h1>";
@@ -245,7 +212,7 @@ if ((isset($_POST['begin-date'])) and (isset($_POST['end-date']))) { //пров�
             if ($daysstat[$i][13] != 0) {
                 echo "<p class = 'date1'>" . $i . " год: " . $daysstat[$i][13] . " дней" . "</p>";
                 for ($j = 1; $j < 13; $j++) {
-                    $m = mnthname($j);
+                    $m = $mnthname[$j];
                     echo "<p class = 'date2'>" . $m . " : " . $daysstat[$i][$j] . " дней" . "</p>";
                 }
             }
