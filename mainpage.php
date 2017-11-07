@@ -18,7 +18,7 @@ session_start(); //Начала сессии
 $tknumber = $_SESSION['userdata'][3];
 
 //begindatedel =  implode(",", array_keys($_POST));
-if ((isset(array_keys($_POST)[0])) and (array_keys($_POST)[0]==="exit")) { //Проверка на нажатие кнопки выхода
+if ((count($_POST) != 0) and (key($_POST)==="exit")) { //Проверка на нажатие кнопки выхода
 
     header("Location: LoginForm.php");
     session_abort();
